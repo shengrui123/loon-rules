@@ -1,0 +1,21 @@
+#!name = 豆瓣去广告
+#!desc = 去除豆瓣 App 开屏广告，并尽可能屏蔽通用广告、部分信息流广告和电影页广告横幅。
+#!author = Codex
+#!date = 2026-08-06
+
+[URL Rewrite]
+# 开屏广告：返回空 JSON，避免 App 因连接被直接断开而反复重试
+^https?:\/\/api\.douban\.com\/v\d+\/app_ads\/splash(?:[\/?].*)?$ reject-dict
+
+# 通用广告接口：覆盖部分首页/信息流广告
+^https?:\/\/api\.douban\.com\/v\d+\/app_ads\/common_ads(?:[\/?].*)?$ reject-dict
+^https?:\/\/api\.douban\.com\/b[^\/?]*\/common_ads(?:\?.*)?$ reject-dict
+
+# 电影页广告横幅
+^https?:\/\/frodo\.douban\.com\/api\/v\d+\/movie\/banner(?:\?.*)?$ reject-dict
+
+# 豆瓣广告图片资源（仅匹配 dale_ad 目录）
+^https?:\/\/img\d*\.doubanio\.com\/view\/dale-online\/dale_ad\/.*$ reject-img
+
+[MITM]
+hostname = api.douban.com, frodo.douban.com, img*.doubanio.com
