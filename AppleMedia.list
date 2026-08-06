@@ -1,5 +1,5 @@
 # Apple Podcasts / Books / Media playback / XP service
-DOMAIN,podcasts.apple.com
-DOMAIN,bookkeeper.itunes.apple.com
-DOMAIN,play.itunes.apple.com
-DOMAIN,xp.apple.com
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
+DOMAIN-SUFFIX,play.itunes.apple.com
+DOMAIN-SUFFIX,xp.apple.com
