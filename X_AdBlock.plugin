@@ -1,5 +1,5 @@
-#!name = X/Twitter 信息流去广告
-#!desc = 移除 X（Twitter）首页、最新、搜索、列表及用户时间线中的 Promoted 推文。
+#!name = X/Twitter 网页信息流去广告
+#!desc = 移除 Safari/浏览器版 X（Twitter）信息流中的 Promoted 推文；不解密官方 App API，避免证书固定导致断网。
 #!author = Codex
 #!date = 2026-08-26
 #!system = iOS,iPadOS,macOS
@@ -7,7 +7,7 @@
 #!tag = 去广告,社交
 
 [Script]
-http-response ^https:\/\/(?:api\.)?(?:twitter\.com|x\.com)\/(?:i\/api\/)?graphql\/[^\/]+\/(?:HomeTimeline|HomeLatestTimeline|SearchTimeline|ListLatestTweetsTimeline|UserTweets|UserTweetsAndReplies|UserMedia|TweetDetail)(?:\?|$) script-path=https://raw.githubusercontent.com/shengrui123/loon-rules/main/X_AdBlock.js,tag=X/Twitter 信息流去广告,requires-body=true,binary-body-mode=false,timeout=10,enable=true
+http-response ^https:\/\/(?:www\.)?(?:twitter\.com|x\.com)\/i\/api\/graphql\/[^\/]+\/(?:HomeTimeline|HomeLatestTimeline|SearchTimeline|ListLatestTweetsTimeline|UserTweets|UserTweetsAndReplies|UserMedia|TweetDetail)(?:\?|$) script-path=https://raw.githubusercontent.com/shengrui123/loon-rules/main/X_AdBlock.js,tag=X/Twitter 网页信息流去广告,requires-body=true,binary-body-mode=false,timeout=10,enable=true
 
 [MITM]
-hostname = api.twitter.com, api.x.com, twitter.com, x.com
+hostname = twitter.com, www.twitter.com, x.com, www.x.com
