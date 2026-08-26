@@ -62,6 +62,22 @@
       return false;
     }
 
+    // Current App responses put the full advertising payload below
+    // media_or_ad.injected (including ad_id, campaign_id and tracking_token).
+    // Inspect that object before checking legacy root-level fields.
+    if (
+      isObject(media.injected) &&
+      (
+        hasValue(media.injected, "ad_id") ||
+        hasValue(media.injected, "campaign_id") ||
+        hasValue(media.injected, "tracking_token") ||
+        media.injected.label === "Sponsored" ||
+        media.injected.label === "Ad"
+      )
+    ) {
+      return true;
+    }
+
     // Strong, explicit flags used by native and web feed responses.
     if (
       hasValue(media, "ad_id") ||
