@@ -20,6 +20,21 @@
     return;
   }
 
+  // Most timeline responses contain no ads. Avoid JSON parsing and recursive
+  // traversal unless the raw payload contains a known advertising signal.
+  if (
+    body.indexOf('"ad_id"') === -1 &&
+    body.indexOf('"is_sponsored":true') === -1 &&
+    body.indexOf('"product_type":"ad"') === -1 &&
+    body.indexOf('"ad_metadata"') === -1 &&
+    body.indexOf('"sponsored_label_info"') === -1 &&
+    body.indexOf('"ad_tracking_token"') === -1 &&
+    body.indexOf('"ad_media_items"') === -1
+  ) {
+    $done({});
+    return;
+  }
+
   function isObject(value) {
     return value !== null && typeof value === "object";
   }
