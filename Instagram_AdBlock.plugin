@@ -1,5 +1,5 @@
 #!name = Instagram 信息流去广告
-#!desc = 过滤 Instagram App 与网页版首页信息流中的 Sponsored 广告，保留普通帖子、推荐内容和分页游标。
+#!desc = 轻量过滤 Instagram App 首页信息流中的 Sponsored 广告，仅解密首页时间线接口。
 #!author = Codex
 #!date = 2026-08-26
 #!system = iOS,iPadOS,macOS
@@ -10,12 +10,5 @@
 # Instagram App 首页信息流
 http-response ^https:\/\/(?:i|b)\.instagram\.com\/api\/v1\/feed\/timeline\/?(?:\?|$) script-path=https://raw.githubusercontent.com/shengrui123/loon-rules/main/Instagram_AdBlock.js,tag=Instagram App 信息流去广告,requires-body=true,binary-body-mode=false,timeout=10,enable=true
 
-# Instagram 网页版首页信息流（兼容当前及旧版 GraphQL 路径）
-http-response ^https:\/\/(?:www\.)?instagram\.com\/(?:api\/graphql|graphql\/query)\/?(?:\?|$) script-path=https://raw.githubusercontent.com/shengrui123/loon-rules/main/Instagram_AdBlock.js,tag=Instagram 网页信息流去广告,requires-body=true,binary-body-mode=false,timeout=10,enable=true
-
-[URL Rewrite]
-# 阻止 App 在首页响应之外异步补充广告候选；仅覆盖广告专用接口
-^https:\/\/(?:i|b)\.instagram\.com\/api\/v1\/feed\/(?:async_ads_ranking|user_interests_contextual_feed_of_ads|shop_everything_feed_of_ads[^\/?]*)(?:[\/?].*)?$ reject-dict
-
 [MITM]
-hostname = i.instagram.com, b.i.instagram.com, instagram.com, www.instagram.com
+hostname = i.instagram.com, b.i.instagram.com
