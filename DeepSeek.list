@@ -1,0 +1,14 @@
+# DeepSeek
+# Official website, web app, API, documentation, downloads, and service domains.
+
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseek.cn
+DOMAIN-SUFFIX,deepseeksvc.com
+
+# Supporting services used by the DeepSeek web and mobile apps.
+
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,portal101.cn
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,guance.com
