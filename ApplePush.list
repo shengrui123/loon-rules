@@ -1,0 +1,4 @@
+# Apple Push Notification service (APNs)
+# Covers courier, API, sandbox, broadcast, gateway, and future APNs subdomains.
+
+DOMAIN-SUFFIX,push.apple.com
