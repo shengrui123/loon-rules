@@ -1,12 +1,17 @@
-# Yahoo News / Yahoo 奇摩新闻
-# Main news sites, images, static assets, consent, and regional editions.
+# Yahoo News
 
-DOMAIN-SUFFIX,news.yahoo.com
+DOMAIN,tw.news.yahoo.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yahoo.com.tw
+DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,yahooapis.com
+DOMAIN-SUFFIX,yahoo.net
+DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,media.zenfs.com
-DOMAIN,s.yimg.com
-DOMAIN,guce.yahoo.com
 DOMAIN,consent.cmp.oath.com
 
-# Yahoo! Japan News
+# Yahoo Japan
+
 DOMAIN,news.yahoo.co.jp
-DOMAIN-SUFFIX,s.yimg.jp
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yimg.jp
