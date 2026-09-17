@@ -1,0 +1,83 @@
+{
+  "checked_at": "2026-09-17T04:19:29.470410+00:00",
+  "total": 5320,
+  "passed": 5309,
+  "failures": [
+    {
+      "name": "craft-app-dark [dashboard]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/craft-app-dark.png"
+    },
+    {
+      "name": "craft-app-light [dashboard]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/craft-app-light.png"
+    },
+    {
+      "name": "craft-app-wordmark-dark [dashboard]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/craft-app-wordmark-dark.png"
+    },
+    {
+      "name": "craft-app-wordmark-light [dashboard]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/craft-app-wordmark-light.png"
+    },
+    {
+      "name": "f1tv-light [dashboard]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/f1tv-light.png"
+    },
+    {
+      "name": "juniper-networks-dark [dashboard]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/juniper-networks-dark.png"
+    },
+    {
+      "name": "juniper-networks-light [dashboard]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/juniper-networks-light.png"
+    },
+    {
+      "name": "matlab-wordmark-dark [dashboard]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/matlab-wordmark-dark.png"
+    },
+    {
+      "name": "matlab-wordmark-light [dashboard]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/matlab-wordmark-light.png"
+    },
+    {
+      "name": "meindienstradde-light [dashboard]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/meindienstradde-light.png"
+    },
+    {
+      "name": "PingMe [apps]",
+      "ok": false,
+      "error": "Not PNG",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/PingMe.png"
+    }
+  ],
+  "method": "HTTP GET, status 200, PNG signature and IHDR positive dimensions; no Stash client import test",
+  "excluded_from_deliverables": 11,
+  "delivered_count": 5309,
+  "note": "All failed entries were removed from source inventories and regenerated output. failures records the original scan, not the delivered set.",
+  "output_sha256": {
+    "stash-global.json": "8017ec2ae021184754dca3f8dea9c35896ff72ecdaff7509fda28a64711ca54d",
+    "dashboard.json": "e04ef2fafb3b36253a6d55387ac971fa6ba0865bb7746b5bfd97205597b35f50",
+    "apps.json": "d599e2c88798af933cc539eb62f1140631acd416f1b5882b92d5e16cb4cdb9e5",
+    "qure.json": "fa4094a7d8629b0de0281cd324cf4ec5a9c7253337f42883fc6c64f5fdffd7ae"
+  }
+}
