@@ -1,0 +1,593 @@
+{
+  "name": "Stash · 中国常用 App",
+  "icons": [
+    {
+      "name": "115生活 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1469012999.png"
+    },
+    {
+      "name": "58同城 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/480079300.png"
+    },
+    {
+      "name": "BOSS直聘 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/887314963.png"
+    },
+    {
+      "name": "DeepSeek [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6737597349.png"
+    },
+    {
+      "name": "DJI Mimo [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1431720653.png"
+    },
+    {
+      "name": "QQ [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/444934666.png"
+    },
+    {
+      "name": "QQ浏览器 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/370139302.png"
+    },
+    {
+      "name": "QQ邮箱 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/473225145.png"
+    },
+    {
+      "name": "QQ阅读 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/487608658.png"
+    },
+    {
+      "name": "QQ音乐 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/414603431.png"
+    },
+    {
+      "name": "UC浏览器 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/586871187.png"
+    },
+    {
+      "name": "U校园AI版 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1672267376.png"
+    },
+    {
+      "name": "WorkBuddy [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6761374913.png"
+    },
+    {
+      "name": "WPS Office [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/599852710.png"
+    },
+    {
+      "name": "七猫小说 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1387717110.png"
+    },
+    {
+      "name": "东方财富 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/423525686.png"
+    },
+    {
+      "name": "个人所得税 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1436002627.png"
+    },
+    {
+      "name": "中国农业银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/515651240.png"
+    },
+    {
+      "name": "中国工商银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/423514795.png"
+    },
+    {
+      "name": "中国建设银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/391965015.png"
+    },
+    {
+      "name": "中国电信 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/513836029.png"
+    },
+    {
+      "name": "中国移动（手机营业厅） [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/583700738.png"
+    },
+    {
+      "name": "中国联通 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/416457422.png"
+    },
+    {
+      "name": "中国银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/399608199.png"
+    },
+    {
+      "name": "云闪付 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/600273928.png"
+    },
+    {
+      "name": "交管12123 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1039727169.png"
+    },
+    {
+      "name": "京东 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/414245413.png"
+    },
+    {
+      "name": "京东金融 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/895682747.png"
+    },
+    {
+      "name": "什么值得买 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/518213356.png"
+    },
+    {
+      "name": "今日头条 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/529092160.png"
+    },
+    {
+      "name": "今日水印相机 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1319071502.png"
+    },
+    {
+      "name": "企业微信 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1087897068.png"
+    },
+    {
+      "name": "优酷视频 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/336141475.png"
+    },
+    {
+      "name": "全民K歌 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/910513149.png"
+    },
+    {
+      "name": "到梦空间 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1111507151.png"
+    },
+    {
+      "name": "前程无忧51Job [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/415443644.png"
+    },
+    {
+      "name": "剪映 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1458072671.png"
+    },
+    {
+      "name": "千问 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6466733523.png"
+    },
+    {
+      "name": "华为商城 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1455432631.png"
+    },
+    {
+      "name": "即梦AI [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6503676563.png"
+    },
+    {
+      "name": "去哪儿旅行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/395096736.png"
+    },
+    {
+      "name": "叮咚买菜 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/768082524.png"
+    },
+    {
+      "name": "同程旅行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/475966832.png"
+    },
+    {
+      "name": "同花顺 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/303191318.png"
+    },
+    {
+      "name": "咪咕视频 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/787130974.png"
+    },
+    {
+      "name": "哈啰 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1165227346.png"
+    },
+    {
+      "name": "哔哩哔哩 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/736536022.png"
+    },
+    {
+      "name": "唯品会 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/417200582.png"
+    },
+    {
+      "name": "喜马拉雅 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/876336838.png"
+    },
+    {
+      "name": "国家医保服务平台 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1490383593.png"
+    },
+    {
+      "name": "国家反诈中心 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1552823102.png"
+    },
+    {
+      "name": "国家网络身份认证 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1588080869.png"
+    },
+    {
+      "name": "多邻国Duolingo英语日语法语 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/570060128.png"
+    },
+    {
+      "name": "多闪 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1435602536.png"
+    },
+    {
+      "name": "大众点评 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/351091731.png"
+    },
+    {
+      "name": "大麦 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/513829338.png"
+    },
+    {
+      "name": "天猫 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/518966501.png"
+    },
+    {
+      "name": "央视频 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1479814602.png"
+    },
+    {
+      "name": "夸克 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1160172628.png"
+    },
+    {
+      "name": "夸克网盘 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6755949705.png"
+    },
+    {
+      "name": "学习强国 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1426355645.png"
+    },
+    {
+      "name": "学习通 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/977946724.png"
+    },
+    {
+      "name": "学信网 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1488854568.png"
+    },
+    {
+      "name": "小米商城 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1024958046.png"
+    },
+    {
+      "name": "小米运动健康 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1493500777.png"
+    },
+    {
+      "name": "小红书 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/741292507.png"
+    },
+    {
+      "name": "山姆会员商店 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/818237113.png"
+    },
+    {
+      "name": "平安口袋银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1085016815.png"
+    },
+    {
+      "name": "得物 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1012871328.png"
+    },
+    {
+      "name": "微信 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/414478124.png"
+    },
+    {
+      "name": "微博 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/350962117.png"
+    },
+    {
+      "name": "微店 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/860384719.png"
+    },
+    {
+      "name": "心遇 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1516567721.png"
+    },
+    {
+      "name": "志愿汇 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/959468399.png"
+    },
+    {
+      "name": "快影 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1195860596.png"
+    },
+    {
+      "name": "快手 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/440948110.png"
+    },
+    {
+      "name": "快手极速版 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1472502819.png"
+    },
+    {
+      "name": "懂球帝 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6740233629.png"
+    },
+    {
+      "name": "懂车帝 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1232131998.png"
+    },
+    {
+      "name": "扫描全能王 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/388627783.png"
+    },
+    {
+      "name": "抖省省 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6756863766.png"
+    },
+    {
+      "name": "抖音 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1142110895.png"
+    },
+    {
+      "name": "抖音商城 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1485191072.png"
+    },
+    {
+      "name": "招商银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/392899425.png"
+    },
+    {
+      "name": "拼多多 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1044283059.png"
+    },
+    {
+      "name": "掌阅 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/463150061.png"
+    },
+    {
+      "name": "携程旅行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/379395415.png"
+    },
+    {
+      "name": "支付宝 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/333206289.png"
+    },
+    {
+      "name": "智行火车票-12306官网出票 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/651323845.png"
+    },
+    {
+      "name": "汽水音乐 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1605585211.png"
+    },
+    {
+      "name": "河马剧场 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6451242037.png"
+    },
+    {
+      "name": "淘宝 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/387682726.png"
+    },
+    {
+      "name": "滴滴出行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/554499054.png"
+    },
+    {
+      "name": "澎湃新闻 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/878962716.png"
+    },
+    {
+      "name": "爱奇艺 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/393765873.png"
+    },
+    {
+      "name": "班级小管家 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1524125516.png"
+    },
+    {
+      "name": "瓜子二手车 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/990531994.png"
+    },
+    {
+      "name": "电子税务局 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6468941332.png"
+    },
+    {
+      "name": "界面新闻 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/930342070.png"
+    },
+    {
+      "name": "番茄小说 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1468454200.png"
+    },
+    {
+      "name": "百度 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/382201985.png"
+    },
+    {
+      "name": "百度地图 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/452186370.png"
+    },
+    {
+      "name": "百度网盘 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/547166701.png"
+    },
+    {
+      "name": "百度贴吧 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/477927812.png"
+    },
+    {
+      "name": "盒马 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1063183999.png"
+    },
+    {
+      "name": "直播吧 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1228058501.png"
+    },
+    {
+      "name": "知乎 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/432274380.png"
+    },
+    {
+      "name": "知到. [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1255358463.png"
+    },
+    {
+      "name": "米家 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/957323480.png"
+    },
+    {
+      "name": "红果漫剧 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6745890963.png"
+    },
+    {
+      "name": "红果短剧 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6451407032.png"
+    },
+    {
+      "name": "网易云音乐 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/590338362.png"
+    },
+    {
+      "name": "网易新闻 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/425349261.png"
+    },
+    {
+      "name": "美团 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/423084029.png"
+    },
+    {
+      "name": "美团外卖 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/737310995.png"
+    },
+    {
+      "name": "美图秀秀 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/416048305.png"
+    },
+    {
+      "name": "腾讯会议 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1484048379.png"
+    },
+    {
+      "name": "腾讯新闻 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/399363156.png"
+    },
+    {
+      "name": "腾讯视频 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/458318329.png"
+    },
+    {
+      "name": "航旅纵横 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/480161784.png"
+    },
+    {
+      "name": "芒果TV [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/629774477.png"
+    },
+    {
+      "name": "苏宁易购 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/424598114.png"
+    },
+    {
+      "name": "菜鸟 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/951610982.png"
+    },
+    {
+      "name": "虎扑 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/906632439.png"
+    },
+    {
+      "name": "蚂蚁财富 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1025628019.png"
+    },
+    {
+      "name": "蚂蚁阿福 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6743828427.png"
+    },
+    {
+      "name": "西瓜视频 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1134496215.png"
+    },
+    {
+      "name": "豆包 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6459478672.png"
+    },
+    {
+      "name": "豆瓣 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/907002334.png"
+    },
+    {
+      "name": "财新 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/356023612.png"
+    },
+    {
+      "name": "起点读书 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/534174796.png"
+    },
+    {
+      "name": "转转 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1002355194.png"
+    },
+    {
+      "name": "迅雷 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1503466530.png"
+    },
+    {
+      "name": "邮储银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/493489515.png"
+    },
+    {
+      "name": "酷我音乐 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/588673713.png"
+    },
+    {
+      "name": "酷狗音乐 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/472208016.png"
+    },
+    {
+      "name": "醒图 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1500526240.png"
+    },
+    {
+      "name": "钉钉 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/930368978.png"
+    },
+    {
+      "name": "铁路12306 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/564818797.png"
+    },
+    {
+      "name": "闲鱼 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/510909506.png"
+    },
+    {
+      "name": "阿里巴巴(1688) [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/507097717.png"
+    },
+    {
+      "name": "雪球 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/492180369.png"
+    },
+    {
+      "name": "顺丰速运 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/899529698.png"
+    },
+    {
+      "name": "飓风相机 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6749835845.png"
+    },
+    {
+      "name": "飞书 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1401729613.png"
+    },
+    {
+      "name": "飞猪旅行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/453691481.png"
+    },
+    {
+      "name": "高德地图 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/461703208.png"
+    }
+  ]
+}

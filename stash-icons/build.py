@@ -10,7 +10,13 @@ import urllib.parse
 import urllib.request
 
 ROOT = Path(__file__).resolve().parent
-PACKS = {'dashboard': 'Global Apps and Websites', 'apps': 'Apps Supplement', 'qure': 'Qure Color and Policies'}
+PACKS = {
+    'dashboard': 'Global Apps and Websites',
+    'apps': 'Apps Supplement',
+    'qure': 'Qure Color and Policies',
+    'orz': 'Chinese Services Supplement',
+    'china': '中国常用 App',
+}
 
 def save(path, value):
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
@@ -52,9 +58,20 @@ def main():
     counts = {}
     for key, title in PACKS.items():
         source = json.loads((ROOT / 'sources' / f'{key}.json').read_text())
-        revision = source['revision']
-        assert len(revision) == 40 and all(c in '0123456789abcdef' for c in revision)
-        icons = [{'name': f'{Path(path).stem} [{key}]', 'url': f'https://raw.githubusercontent.com/{source["repository"]}/{revision}/{urllib.parse.quote(path, safe="/")}'} for path in sorted(source['paths'], key=str.casefold)]
+        if 'paths' in source:
+            revision = source['revision']
+            assert len(revision) == 40 and all(c in '0123456789abcdef' for c in revision)
+            icons = [{'name': f'{Path(path).stem} [{key}]', 'url': f'https://raw.githubusercontent.com/{source["repository"]}/{revision}/{urllib.parse.quote(path, safe="/")}'} for path in sorted(source['paths'], key=str.casefold)]
+        else:
+            icons = []
+            for item in sorted(source['icons'], key=lambda item: item['name'].casefold()):
+                asset = ROOT / item['path']
+                assert asset.is_file(), asset
+                assert asset.read_bytes()[:8] == b'\x89PNG\r\n\x1a\n', asset
+                icons.append({
+                    'name': f'{item["name"]} [{key}]',
+                    'url': f'https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/{urllib.parse.quote(item["path"], safe="/")}',
+                })
         data = {'name': f'Stash · {title}', 'icons': icons}
         validate(data)
         save(ROOT / f'{key}.json', data)

@@ -1,17 +1,19 @@
 # Stash 全球应用与网站图标集
 
-共 **5,309 个图标条目**：应用、网站、开发工具、自托管服务，以及补充策略组图标。数量包含同一品牌的深浅色、旧版和不同设计变体，**不代表 5,309 个独立 App，也无法保证覆盖世界上大多数 App/网站**。
+共 **5,790 个图标条目**：应用、网站、开发工具、自托管服务，以及补充策略组图标。数量包含同一品牌的深浅色、旧版和不同设计变体，**不代表 5,790 个独立 App，也无法保证覆盖世界上大多数 App/网站**。
 
 ## 文件
 
 | 文件 | 条目 | 内容 |
 | --- | ---: | --- |
-| [stash-global.json](stash-global.json) | 5,309 | 完整合集，任选此文件或下面的分包 |
+| [stash-global.json](stash-global.json) | 5,790 | 完整合集，任选此文件或下面的分包 |
+| [china.json](china.json) | 147 | 中国常用 App，使用中文名称和仓库内固定图标 |
+| [orz.json](orz.json) | 334 | 国内服务、应用及策略图标补充 |
 | [dashboard.json](dashboard.json) | 4,240 | 国际应用、网站、工具及深浅色变体 |
 | [apps.json](apps.json) | 722 | 国内外应用及辅助图标补充 |
 | [qure.json](qure.json) | 347 | Qure 彩色应用、流媒体、地区和策略图标 |
 
-名称保留上游文件名，并添加来源后缀避免重名。例如 `github [dashboard]`、`WeChat [qure]`。可搜索英文品牌名；不承诺所有条目都能用中文搜索。不同来源的同品牌图标保留，便于选择外观。历史品牌、已停服应用也可能被收录。
+`china.json` 可直接搜索豆瓣、淘宝、天猫、小红书、支付宝、美团、抖音、微信等中文名称。其他分包保留上游文件名，并添加来源后缀避免重名，例如 `github [dashboard]`、`WeChat [qure]`。不同来源的同品牌图标保留，便于选择外观。历史品牌、已停服应用也可能被收录。
 
 ## Stash 格式依据
 
@@ -55,13 +57,21 @@ https://link.stash.ws/install-icon-set/raw.githubusercontent.com/shengrui123/loo
 
 安装入口：[一键导入完整图标集](https://link.stash.ws/install-icon-set/raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/stash-global.json)。大合集首次加载可能较慢，可以只导入需要的分包；分包与完整集内容重叠，无需全部导入。
 
+中国常用 App 分包可单独导入：
+
+```text
+https://link.stash.ws/install-icon-set/raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china.json
+```
+
 ## 来源与维护
 
 - [Homarr Labs Dashboard Icons](https://github.com/homarr-labs/dashboard-icons)：使用 `png/` 目录。
 - [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts)：使用 `icons/apps/` 目录。
 - [Koolson/Qure](https://github.com/Koolson/Qure)：使用 `IconSet/Color/` 目录。
+- [Orz-3/mini](https://github.com/Orz-3/mini)：使用 `Color/` 目录作为国内服务补充。
+- [Apple 中国区 App Store](https://www.apple.com.cn/app-store/)：中国常用 App 名称与图标来源。图标已缩放为最大 256×256 PNG 并存入 `china/`，避免外部临时图片链接失效；对应 App ID、商店页面和原图地址记录在 `sources/china.json`。
 
-JSON 仅引用远程图片，没有重新绘制或改动品牌图标。图标的著作权、商标及使用条件遵循对应品牌和原项目声明；本项目不将第三方图片重新授权。所有 URL 锁定到 `sources/` 记录的 Git 提交/树版本，特殊字符已做 URL 编码，避免上游移动分支更新造成图标被替换。固定版本也意味着图标不会自动更新。
+JSON 引用上游固定版本或本仓库内的 App Store 图标快照，没有重新绘制品牌图标。图标的著作权、商标及使用条件遵循对应品牌和原项目声明；本项目不将第三方图片重新授权。上游 URL 锁定到 `sources/` 记录的 Git 提交/树版本，特殊字符已做 URL 编码，避免上游移动分支更新造成图标被替换。固定版本也意味着图标不会自动更新。
 
 仓库文件清单用于核实每个路径真实存在。重新生成与在线校验只需 Python 3 标准库：
 
@@ -74,4 +84,4 @@ python3 stash-icons/build.py --check-links
 
 更新时替换 `sources/` 中对应版本和该版本的真实路径清单，再运行生成器和在线校验；不要只修改版本号而沿用未经核实的路径。
 
-本次全量检查：原始 5,320 条中 5,309 条通过，11 条响应内容不符合 PNG 文件头要求，已从来源清单及所有交付 JSON 中剔除。`validation-report.json` 保留原始检查结果和排除记录；最终合集没有这些失败条目。
+初版检查中，原始 5,320 条有 11 条响应内容不符合 PNG 文件头要求，已永久从来源清单中剔除。当前 `validation-report.json` 记录最新版总集的在线检查结果。

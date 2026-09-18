@@ -2,12 +2,40 @@
   "name": "Stash · Global Icon Collection",
   "icons": [
     {
+      "name": "10000 [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/10000.png"
+    },
+    {
+      "name": "10010 [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/10010.png"
+    },
+    {
+      "name": "10086 [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/10086.png"
+    },
+    {
+      "name": "10086fee [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/10086fee.png"
+    },
+    {
       "name": "1111 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/1111.png"
     },
     {
+      "name": "115 [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/115.png"
+    },
+    {
+      "name": "115生活 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1469012999.png"
+    },
+    {
       "name": "11Pshare [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/11Pshare.png"
+    },
+    {
+      "name": "12306 [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/12306.png"
     },
     {
       "name": "1337x [dashboard]",
@@ -16,6 +44,10 @@
     {
       "name": "13ft [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/13ft.png"
+    },
+    {
+      "name": "163GameVip [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/163GameVip.png"
     },
     {
       "name": "1panel [dashboard]",
@@ -78,6 +110,14 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/4chan.png"
     },
     {
+      "name": "52pj [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/52pj.png"
+    },
+    {
+      "name": "58同城 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/480079300.png"
+    },
+    {
       "name": "5etools [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/5etools.png"
     },
@@ -114,6 +154,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/a3.png"
     },
     {
+      "name": "AAEX [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/AAEX.png"
+    },
+    {
       "name": "AbemaTV [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/AbemaTV.png"
     },
@@ -132,6 +176,10 @@
     {
       "name": "AcEmby1 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/AcEmby1.png"
+    },
+    {
+      "name": "acfun [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/acfun.png"
     },
     {
       "name": "Acg [apps]",
@@ -206,6 +254,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/adblock.png"
     },
     {
+      "name": "Adblock [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Adblock.png"
+    },
+    {
       "name": "AdblockPlus [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/AdblockPlus.png"
     },
@@ -270,6 +322,10 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/AdWhite.png"
     },
     {
+      "name": "AEX [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/AEX.png"
+    },
+    {
       "name": "affine [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/affine.png"
     },
@@ -332,6 +388,10 @@
     {
       "name": "airdc [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/airdc.png"
+    },
+    {
+      "name": "airport [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/airport.png"
     },
     {
       "name": "Airport [qure]",
@@ -428,6 +488,10 @@
     {
       "name": "aliexpress [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/aliexpress.png"
+    },
+    {
+      "name": "alipay [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/alipay.png"
     },
     {
       "name": "Alist [apps]",
@@ -554,6 +618,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/ampache.png"
     },
     {
+      "name": "Amy [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Amy.png"
+    },
+    {
       "name": "AmyTelecom [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/AmyTelecom.png"
     },
@@ -596,6 +664,10 @@
     {
       "name": "angel-studios [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/angel-studios.png"
+    },
+    {
+      "name": "angelalign [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/angelalign.png"
     },
     {
       "name": "anghami [dashboard]",
@@ -774,6 +846,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/apiscp.png"
     },
     {
+      "name": "apktw [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/apktw.png"
+    },
+    {
       "name": "app-service [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/app-service.png"
     },
@@ -808,6 +884,10 @@
     {
       "name": "apple [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/apple.png"
+    },
+    {
+      "name": "Apple [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Apple.png"
     },
     {
       "name": "Apple [qure]",
@@ -982,6 +1062,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/AppleNews_02.png"
     },
     {
+      "name": "AppleTV [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/AppleTV.png"
+    },
+    {
       "name": "application-gateway-container [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/application-gateway-container.png"
     },
@@ -996,6 +1080,10 @@
     {
       "name": "AppStore [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/AppStore.png"
+    },
+    {
+      "name": "appstore [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/appstore.png"
     },
     {
       "name": "appwrite [dashboard]",
@@ -1066,6 +1154,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/ariang.png"
     },
     {
+      "name": "Ark [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Ark.png"
+    },
+    {
       "name": "arm [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/arm.png"
     },
@@ -1124,6 +1216,10 @@
     {
       "name": "Asia_Map [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Asia_Map.png"
+    },
+    {
+      "name": "ASN [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/ASN.png"
     },
     {
       "name": "asrock-rack [dashboard]",
@@ -1262,6 +1358,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Atvii.png"
     },
     {
+      "name": "AU [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/AU.png"
+    },
+    {
       "name": "AU [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/AU.png"
     },
@@ -1322,6 +1422,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Auto.png"
     },
     {
+      "name": "Auto [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Auto.png"
+    },
+    {
       "name": "Auto [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Auto.png"
     },
@@ -1364,6 +1468,10 @@
     {
       "name": "av1-light [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/av1-light.png"
+    },
+    {
+      "name": "Available [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Available.png"
     },
     {
       "name": "Available [qure]",
@@ -1694,6 +1802,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/badge.png"
     },
     {
+      "name": "Bahamut [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Bahamut.png"
+    },
+    {
       "name": "Bahamut [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Bahamut.png"
     },
@@ -1704,6 +1816,10 @@
     {
       "name": "baidu [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/baidu.png"
+    },
+    {
+      "name": "baidu [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/baidu.png"
     },
     {
       "name": "baidu-dark [dashboard]",
@@ -1846,6 +1962,10 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/BBC_iPlayer_2.png"
     },
     {
+      "name": "bcz [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/bcz.png"
+    },
+    {
       "name": "Bdd [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Bdd.png"
     },
@@ -1966,12 +2086,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/bikerouter.png"
     },
     {
+      "name": "Bili [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Bili.png"
+    },
+    {
       "name": "BiliBili [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/BiliBili.png"
     },
     {
       "name": "bilibili [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/bilibili.png"
+    },
+    {
+      "name": "bilibili [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/bilibili.png"
     },
     {
       "name": "bilibili [qure]",
@@ -2034,6 +2162,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/bing.png"
     },
     {
+      "name": "Bing [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Bing.png"
+    },
+    {
       "name": "bing(1) [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/bing%281%29.png"
     },
@@ -2058,8 +2190,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/birdnet.png"
     },
     {
+      "name": "birthday [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/birthday.png"
+    },
+    {
       "name": "bitbucket [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/bitbucket.png"
+    },
+    {
+      "name": "Bitcloud [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Bitcloud.png"
     },
     {
       "name": "bitcoin [dashboard]",
@@ -2114,6 +2254,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/bitwig-studio-dark.png"
     },
     {
+      "name": "biyao [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/biyao.png"
+    },
+    {
       "name": "black-forest-labs [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/black-forest-labs.png"
     },
@@ -2156,6 +2300,14 @@
     {
       "name": "blender [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/blender.png"
+    },
+    {
+      "name": "Blibee [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Blibee.png"
+    },
+    {
+      "name": "Blink [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Blink.png"
     },
     {
       "name": "BlinkLoad [apps]",
@@ -2294,6 +2446,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/bookstack.png"
     },
     {
+      "name": "Boom [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Boom.png"
+    },
+    {
       "name": "bootstrap [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/bootstrap.png"
     },
@@ -2314,12 +2470,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/borgmatic-light.png"
     },
     {
+      "name": "Boslife [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Boslife.png"
+    },
+    {
       "name": "BosLife [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/BosLife.png"
     },
     {
       "name": "BosLife_1 [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/BosLife_1.png"
+    },
+    {
+      "name": "BOSS直聘 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/887314963.png"
     },
     {
       "name": "Bot [qure]",
@@ -2340,6 +2504,10 @@
     {
       "name": "box [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/box.png"
+    },
+    {
+      "name": "box [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/box.png"
     },
     {
       "name": "boxarr [dashboard]",
@@ -2458,6 +2626,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/btcpay-server.png"
     },
     {
+      "name": "bubei [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/bubei.png"
+    },
+    {
       "name": "buddy [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/buddy.png"
     },
@@ -2542,8 +2714,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/bytestash.png"
     },
     {
+      "name": "Bywave [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Bywave.png"
+    },
+    {
       "name": "c [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/c.png"
+    },
+    {
+      "name": "CA [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/CA.png"
     },
     {
       "name": "CA [qure]",
@@ -2594,6 +2774,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/CaiYun.png"
     },
     {
+      "name": "caiyun [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/caiyun.png"
+    },
+    {
       "name": "cal-com [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/cal-com.png"
     },
@@ -2608,6 +2792,10 @@
     {
       "name": "caldera [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/caldera.png"
+    },
+    {
+      "name": "calendar [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/calendar.png"
     },
     {
       "name": "calibre [dashboard]",
@@ -2818,6 +3006,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/CatFish1.png"
     },
     {
+      "name": "Catnet [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Catnet.png"
+    },
+    {
       "name": "Catnet [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Catnet.png"
     },
@@ -2836,6 +3028,10 @@
     {
       "name": "cc-light [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/cc-light.png"
+    },
+    {
+      "name": "CCCat [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/CCCat.png"
     },
     {
       "name": "CcEmby [apps]",
@@ -3068,6 +3264,10 @@
     {
       "name": "chimera-linux [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/chimera-linux.png"
+    },
+    {
+      "name": "China [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/China.png"
     },
     {
       "name": "China [qure]",
@@ -3338,6 +3538,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Clubhouse.png"
     },
     {
+      "name": "Clubhouse [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Clubhouse.png"
+    },
+    {
       "name": "Clubhouse [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Clubhouse.png"
     },
@@ -3350,8 +3554,20 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Clubhouse_2.png"
     },
     {
+      "name": "Cm [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Cm.png"
+    },
+    {
+      "name": "cmbchina [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/cmbchina.png"
+    },
+    {
       "name": "CMedia [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/CMedia.png"
+    },
+    {
+      "name": "CN [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/CN.png"
     },
     {
       "name": "CN [qure]",
@@ -3360,6 +3576,10 @@
     {
       "name": "CN_01 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/CN_01.png"
+    },
+    {
+      "name": "CNIX [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/CNIX.png"
     },
     {
       "name": "CNTower [apps]",
@@ -3392,6 +3612,10 @@
     {
       "name": "cockpit-light [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/cockpit-light.png"
+    },
+    {
+      "name": "Coco [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Coco.png"
     },
     {
       "name": "code [dashboard]",
@@ -3598,6 +3822,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/copyq.png"
     },
     {
+      "name": "Cord [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Cord.png"
+    },
+    {
       "name": "core-control [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/core-control.png"
     },
@@ -3648,6 +3876,10 @@
     {
       "name": "coursera [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/coursera.png"
+    },
+    {
+      "name": "COVID-19 [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/COVID-19.png"
     },
     {
       "name": "cozy [dashboard]",
@@ -3870,6 +4102,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/cryptpad.png"
     },
     {
+      "name": "csdn [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/csdn.png"
+    },
+    {
       "name": "csharp [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/csharp.png"
     },
@@ -3918,6 +4154,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/ctrader-wordmark-light.png"
     },
     {
+      "name": "ctrip [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/ctrip.png"
+    },
+    {
       "name": "cup [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/cup.png"
     },
@@ -3956,6 +4196,10 @@
     {
       "name": "Cydia [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Cydia.png"
+    },
+    {
+      "name": "Cylink [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Cylink.png"
     },
     {
       "name": "cypress [dashboard]",
@@ -4078,6 +4322,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/dawarich.png"
     },
     {
+      "name": "daysmatter [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/daysmatter.png"
+    },
+    {
       "name": "DAZN [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/DAZN.png"
     },
@@ -4092,6 +4340,10 @@
     {
       "name": "dbgate [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/dbgate.png"
+    },
+    {
+      "name": "dbsj [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/dbsj.png"
     },
     {
       "name": "dc-os [dashboard]",
@@ -4138,6 +4390,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/ddns-updater.png"
     },
     {
+      "name": "DE [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/DE.png"
+    },
+    {
       "name": "DE [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/DE.png"
     },
@@ -4160,6 +4416,10 @@
     {
       "name": "DeepSeek [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/DeepSeek.png"
+    },
+    {
+      "name": "DeepSeek [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6737597349.png"
     },
     {
       "name": "deepseek [dashboard]",
@@ -4310,12 +4570,24 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/diamond-aircraft.png"
     },
     {
+      "name": "Dianliang [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Dianliang.png"
+    },
+    {
+      "name": "dianshijia [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/dianshijia.png"
+    },
+    {
       "name": "dictcc [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/dictcc.png"
     },
     {
       "name": "didi [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/didi.png"
+    },
+    {
+      "name": "didi [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/didi.png"
     },
     {
       "name": "Didiemby [apps]",
@@ -4364,6 +4636,10 @@
     {
       "name": "diners-club [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/diners-club.png"
+    },
+    {
+      "name": "dingtalk [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/dingtalk.png"
     },
     {
       "name": "Dinosaur [qure]",
@@ -4418,6 +4694,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/discourse-light.png"
     },
     {
+      "name": "Discovery [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Discovery.png"
+    },
+    {
       "name": "discovery+ [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/discovery%2B.png"
     },
@@ -4462,6 +4742,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/DisneyPlus.png"
     },
     {
+      "name": "DisneyPlus [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/DisneyPlus.png"
+    },
+    {
       "name": "dispatcharr [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/dispatcharr.png"
     },
@@ -4494,8 +4778,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/django-light.png"
     },
     {
+      "name": "DJI Mimo [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1431720653.png"
+    },
+    {
       "name": "dkb [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/dkb.png"
+    },
+    {
+      "name": "Dler [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Dler.png"
+    },
+    {
+      "name": "DLK [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/DLK.png"
     },
     {
       "name": "dlna [dashboard]",
@@ -4710,12 +5006,20 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/DomesticMedia.png"
     },
     {
+      "name": "Domino [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Domino.png"
+    },
+    {
       "name": "domoticz [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/domoticz.png"
     },
     {
       "name": "donetick [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/donetick.png"
+    },
+    {
+      "name": "dongqiudi [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/dongqiudi.png"
     },
     {
       "name": "doozle [dashboard]",
@@ -4764,6 +5068,10 @@
     {
       "name": "douyu [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/douyu.png"
+    },
+    {
+      "name": "douyu [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/douyu.png"
     },
     {
       "name": "dovecot [dashboard]",
@@ -4854,6 +5162,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/dtop.png"
     },
     {
+      "name": "Duang [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Duang.png"
+    },
+    {
       "name": "dub [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/dub.png"
     },
@@ -4878,6 +5190,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/dufs.png"
     },
     {
+      "name": "Dukou [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Dukou.png"
+    },
+    {
       "name": "dumbassets [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/dumbassets.png"
     },
@@ -4892,6 +5208,10 @@
     {
       "name": "duo [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/duo.png"
+    },
+    {
+      "name": "duokan [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/duokan.png"
     },
     {
       "name": "duolingo [dashboard]",
@@ -5086,12 +5406,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/electrum.png"
     },
     {
+      "name": "elem [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/elem.png"
+    },
+    {
       "name": "Element [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Element.png"
     },
     {
       "name": "element [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/element.png"
+    },
+    {
+      "name": "Element [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Element.png"
     },
     {
       "name": "eleven-labs [dashboard]",
@@ -5126,6 +5454,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/elo-touch-solutions.png"
     },
     {
+      "name": "elong [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/elong.png"
+    },
+    {
       "name": "elster [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/elster.png"
     },
@@ -5148,6 +5480,10 @@
     {
       "name": "emby [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/emby.png"
+    },
+    {
+      "name": "Emby [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Emby.png"
     },
     {
       "name": "Emby [qure]",
@@ -5282,6 +5618,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/endurain.png"
     },
     {
+      "name": "Enet [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Enet.png"
+    },
+    {
       "name": "enhance [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/enhance.png"
     },
@@ -5302,8 +5642,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/entergy.png"
     },
     {
+      "name": "Enterprise [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Enterprise.png"
+    },
+    {
       "name": "entra-id [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/entra-id.png"
+    },
+    {
+      "name": "epic [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/epic.png"
     },
     {
       "name": "epic-games [dashboard]",
@@ -5462,6 +5810,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/evernote.png"
     },
     {
+      "name": "everphoto [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/everphoto.png"
+    },
+    {
       "name": "eway-crm [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/eway-crm.png"
     },
@@ -5474,12 +5826,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/excalidraw.png"
     },
     {
+      "name": "exchangerate [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/exchangerate.png"
+    },
+    {
       "name": "exercism [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/exercism.png"
     },
     {
       "name": "exercism-dark [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/exercism-dark.png"
+    },
+    {
+      "name": "Exflux [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Exflux.png"
     },
     {
       "name": "expense-owl [dashboard]",
@@ -5582,6 +5942,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/FallBack.png"
     },
     {
+      "name": "fandeng [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/fandeng.png"
+    },
+    {
       "name": "Fangyt [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Fangyt.png"
     },
@@ -5606,8 +5970,24 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/fasten-health.png"
     },
     {
+      "name": "Fastfish [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Fastfish.png"
+    },
+    {
+      "name": "Fastlink [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Fastlink.png"
+    },
+    {
       "name": "fastmail [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/fastmail.png"
+    },
+    {
+      "name": "Fastnode [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Fastnode.png"
+    },
+    {
+      "name": "fcz [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/fcz.png"
     },
     {
       "name": "featherpanel [dashboard]",
@@ -5656,6 +6036,14 @@
     {
       "name": "Feizhu [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Feizhu.png"
+    },
+    {
+      "name": "feng [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/feng.png"
+    },
+    {
+      "name": "fenqile [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/fenqile.png"
     },
     {
       "name": "fenrus [dashboard]",
@@ -5788,6 +6176,10 @@
     {
       "name": "Final [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Final.png"
+    },
+    {
+      "name": "Final [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Final.png"
     },
     {
       "name": "Final [qure]",
@@ -6006,6 +6398,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/floorplanner.png"
     },
     {
+      "name": "Flower [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Flower.png"
+    },
+    {
       "name": "flowise [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/flowise.png"
     },
@@ -6074,8 +6470,20 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/flyert.png"
     },
     {
+      "name": "flyertea [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/flyertea.png"
+    },
+    {
+      "name": "Flyint [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Flyint.png"
+    },
+    {
       "name": "fmd [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/fmd.png"
+    },
+    {
+      "name": "FNF [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/FNF.png"
     },
     {
       "name": "fnos [dashboard]",
@@ -6166,6 +6574,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/foxit-icon.png"
     },
     {
+      "name": "FR [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/FR.png"
+    },
+    {
       "name": "FR [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/FR.png"
     },
@@ -6176,6 +6588,10 @@
     {
       "name": "France [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/France.png"
+    },
+    {
+      "name": "FRANXX [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/FRANXX.png"
     },
     {
       "name": "franz [dashboard]",
@@ -6354,6 +6770,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/fulcio.png"
     },
     {
+      "name": "funboat [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/funboat.png"
+    },
+    {
       "name": "funkwhale [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/funkwhale.png"
     },
@@ -6378,8 +6798,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/fygoos.png"
     },
     {
+      "name": "GaCloud [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/GaCloud.png"
+    },
+    {
       "name": "Game [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Game.png"
+    },
+    {
+      "name": "GAME [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/GAME.png"
     },
     {
       "name": "Game [qure]",
@@ -6446,8 +6874,16 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Gcp.png"
     },
     {
+      "name": "gdoil [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/gdoil.png"
+    },
+    {
       "name": "geckoview [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/geckoview.png"
+    },
+    {
+      "name": "geekhub [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/geekhub.png"
     },
     {
       "name": "Gemini_01 [apps]",
@@ -6552,6 +6988,10 @@
     {
       "name": "github [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/github.png"
+    },
+    {
+      "name": "github [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/github.png"
     },
     {
       "name": "GitHub [qure]",
@@ -6666,6 +7106,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/GlaDos.png"
     },
     {
+      "name": "GLaDOS [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/GLaDOS.png"
+    },
+    {
       "name": "gladys-assistant [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/gladys-assistant.png"
     },
@@ -6692,6 +7136,10 @@
     {
       "name": "glitchtip [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/glitchtip.png"
+    },
+    {
+      "name": "Global [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Global.png"
     },
     {
       "name": "Global [qure]",
@@ -6760,6 +7208,10 @@
     {
       "name": "godaddy-alt [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/godaddy-alt.png"
+    },
+    {
+      "name": "Godetia [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Godetia.png"
     },
     {
       "name": "godot [dashboard]",
@@ -6832,6 +7284,10 @@
     {
       "name": "google [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/google.png"
+    },
+    {
+      "name": "Google [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Google.png"
     },
     {
       "name": "Google [qure]",
@@ -7102,6 +7558,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/GoogleDrive.png"
     },
     {
+      "name": "GoogleDrive [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/GoogleDrive.png"
+    },
+    {
       "name": "Googlevoice [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Googlevoice.png"
     },
@@ -7258,6 +7718,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/guacamole-light.png"
     },
     {
+      "name": "Guguex [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Guguex.png"
+    },
+    {
       "name": "gumroad [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/gumroad.png"
     },
@@ -7276,6 +7740,10 @@
     {
       "name": "hacker-news [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/hacker-news.png"
+    },
+    {
+      "name": "haidilao [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/haidilao.png"
     },
     {
       "name": "haiku [dashboard]",
@@ -7406,6 +7874,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/hbo.png"
     },
     {
+      "name": "HBO [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/HBO.png"
+    },
+    {
       "name": "HBO [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/HBO.png"
     },
@@ -7464,6 +7936,10 @@
     {
       "name": "hdhomerun-light [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/hdhomerun-light.png"
+    },
+    {
+      "name": "hdhyc [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/hdhyc.png"
     },
     {
       "name": "headlamp [dashboard]",
@@ -7550,6 +8026,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/helix-light.png"
     },
     {
+      "name": "hellbike [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/hellbike.png"
+    },
+    {
       "name": "helm [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/helm.png"
     },
@@ -7614,6 +8094,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/hexos.png"
     },
     {
+      "name": "heybox [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/heybox.png"
+    },
+    {
       "name": "heyform [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/heyform.png"
     },
@@ -7666,8 +8150,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/hister.png"
     },
     {
+      "name": "historyToday [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/historyToday.png"
+    },
+    {
+      "name": "Hitun [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Hitun.png"
+    },
+    {
       "name": "hivedav [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/hivedav.png"
+    },
+    {
+      "name": "HK [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/HK.png"
     },
     {
       "name": "HK [qure]",
@@ -7802,6 +8298,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/hostinger.png"
     },
     {
+      "name": "hot [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/hot.png"
+    },
+    {
       "name": "hotio [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/hotio.png"
     },
@@ -7828,6 +8328,10 @@
     {
       "name": "html-light [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/html-light.png"
+    },
+    {
+      "name": "htt [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/htt.png"
     },
     {
       "name": "http-403-forbidden-kawaii [dashboard]",
@@ -7890,6 +8394,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/hulu.png"
     },
     {
+      "name": "Hulu [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Hulu.png"
+    },
+    {
       "name": "Hulu [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Hulu.png"
     },
@@ -7928,6 +8436,14 @@
     {
       "name": "Hxlm [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Hxlm.png"
+    },
+    {
+      "name": "Hxlm [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Hxlm.png"
+    },
+    {
+      "name": "hycan [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/hycan.png"
     },
     {
       "name": "hydra [dashboard]",
@@ -8010,6 +8526,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/ical.png"
     },
     {
+      "name": "icbc [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/icbc.png"
+    },
+    {
       "name": "icecast [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/icecast.png"
     },
@@ -8048,6 +8568,10 @@
     {
       "name": "iCloud [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/iCloud.png"
+    },
+    {
+      "name": "idaily [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/idaily.png"
     },
     {
       "name": "idealo [dashboard]",
@@ -8104,6 +8628,10 @@
     {
       "name": "image-maid [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/image-maid.png"
+    },
+    {
+      "name": "Imm [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Imm.png"
     },
     {
       "name": "immich [dashboard]",
@@ -8242,6 +8770,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/instagram.png"
     },
     {
+      "name": "Instagram [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Instagram.png"
+    },
+    {
       "name": "Instagram [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Instagram.png"
     },
@@ -8370,6 +8902,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/iqiyi.png"
     },
     {
+      "name": "iQIYI [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/iQIYI.png"
+    },
+    {
       "name": "iQIYI [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/iQIYI.png"
     },
@@ -8462,6 +8998,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/itch.png"
     },
     {
+      "name": "ithome [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/ithome.png"
+    },
+    {
       "name": "itop [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/itop.png"
     },
@@ -8538,8 +9078,24 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/JD.png"
     },
     {
+      "name": "jd [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/jd.png"
+    },
+    {
       "name": "JD_02 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/JD_02.png"
+    },
+    {
+      "name": "jdczf [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/jdczf.png"
+    },
+    {
+      "name": "jddj [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/jddj.png"
+    },
+    {
+      "name": "jdds [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/jdds.png"
     },
     {
       "name": "jdownloader [dashboard]",
@@ -8552,6 +9108,10 @@
     {
       "name": "jeedom [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/jeedom.png"
+    },
+    {
+      "name": "jegotrip [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/jegotrip.png"
     },
     {
       "name": "jekyll [dashboard]",
@@ -8642,6 +9202,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/JingFuGong.png"
     },
     {
+      "name": "jingxi [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/jingxi.png"
+    },
+    {
       "name": "jio [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/jio.png"
     },
@@ -8660,6 +9224,10 @@
     {
       "name": "jitsi-meet [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/jitsi-meet.png"
+    },
+    {
+      "name": "jiumu [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/jiumu.png"
     },
     {
       "name": "joal [dashboard]",
@@ -8686,8 +9254,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/journiv.png"
     },
     {
+      "name": "JP [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/JP.png"
+    },
+    {
       "name": "JP [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/JP.png"
+    },
+    {
+      "name": "jrtt [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/jrtt.png"
     },
     {
       "name": "json [dashboard]",
@@ -8750,8 +9326,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/kaboai.png"
     },
     {
+      "name": "Kache [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Kache.png"
+    },
+    {
       "name": "kafka [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/kafka.png"
+    },
+    {
+      "name": "Kafka [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Kafka.png"
     },
     {
       "name": "kafka-dark [dashboard]",
@@ -8860,6 +9444,10 @@
     {
       "name": "keda [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/keda.png"
+    },
+    {
+      "name": "Kedou [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Kedou.png"
     },
     {
       "name": "keenetic [dashboard]",
@@ -9146,6 +9734,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/kpn.png"
     },
     {
+      "name": "KR [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/KR.png"
+    },
+    {
       "name": "KR [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/KR.png"
     },
@@ -9170,8 +9762,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/ksuite.png"
     },
     {
+      "name": "Kuai [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Kuai.png"
+    },
+    {
+      "name": "KuaiKan [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/KuaiKan.png"
+    },
+    {
       "name": "kuaishou [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/kuaishou.png"
+    },
+    {
+      "name": "kuaishou [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/kuaishou.png"
     },
     {
       "name": "kuaishou_01 [apps]",
@@ -9594,6 +10198,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/linear-dark.png"
     },
     {
+      "name": "LineTV [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/LineTV.png"
+    },
+    {
       "name": "LineTV [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/LineTV.png"
     },
@@ -9726,6 +10334,18 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/livebook.png"
     },
     {
+      "name": "liwo [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/liwo.png"
+    },
+    {
+      "name": "LiYing [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/LiYing.png"
+    },
+    {
+      "name": "lkyl [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/lkyl.png"
+    },
+    {
       "name": "lldap [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/lldap.png"
     },
@@ -9830,6 +10450,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/LoL.png"
     },
     {
+      "name": "lol [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/lol.png"
+    },
+    {
       "name": "LOL [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/LOL.png"
     },
@@ -9852,6 +10476,10 @@
     {
       "name": "Loon [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Loon.png"
+    },
+    {
+      "name": "loon [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/loon.png"
     },
     {
       "name": "Loon_01 [apps]",
@@ -10050,6 +10678,14 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/luxriot.png"
     },
     {
+      "name": "lxhealth [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/lxhealth.png"
+    },
+    {
+      "name": "lxsj [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/lxsj.png"
+    },
+    {
       "name": "lychee [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/lychee.png"
     },
@@ -10238,6 +10874,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/maltego-wordmark-light.png"
     },
     {
+      "name": "manga [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/manga.png"
+    },
+    {
       "name": "manga-dex [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/manga-dex.png"
     },
@@ -10266,12 +10906,24 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/mantrae-light.png"
     },
     {
+      "name": "Manual [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Manual.png"
+    },
+    {
       "name": "many-notes [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/many-notes.png"
     },
     {
       "name": "manyfold [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/manyfold.png"
+    },
+    {
+      "name": "maomicd [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/maomicd.png"
+    },
+    {
+      "name": "maoyan [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/maoyan.png"
     },
     {
       "name": "mapcomplete [dashboard]",
@@ -10386,6 +11038,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/maybe.png"
     },
     {
+      "name": "Maying [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Maying.png"
+    },
+    {
       "name": "mazanoke [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/mazanoke.png"
     },
@@ -10398,12 +11054,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/mcaffee.png"
     },
     {
+      "name": "mcdd [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/mcdd.png"
+    },
+    {
       "name": "mcmyadmin [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/mcmyadmin.png"
     },
     {
       "name": "mcp [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/mcp.png"
+    },
+    {
+      "name": "MDSS [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/MDSS.png"
     },
     {
       "name": "mealie [dashboard]",
@@ -10476,6 +11140,10 @@
     {
       "name": "meituan [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/meituan.png"
+    },
+    {
+      "name": "meituan [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/meituan.png"
     },
     {
       "name": "meituxiuxiu [apps]",
@@ -10590,6 +11258,22 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/metube.png"
     },
     {
+      "name": "MGNB [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/MGNB.png"
+    },
+    {
+      "name": "mgtv [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/mgtv.png"
+    },
+    {
+      "name": "Miao [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Miao.png"
+    },
+    {
+      "name": "Mickey [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Mickey.png"
+    },
+    {
       "name": "Mickey [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Mickey.png"
     },
@@ -10612,6 +11296,10 @@
     {
       "name": "microsoft [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/microsoft.png"
+    },
+    {
+      "name": "Microsoft [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Microsoft.png"
     },
     {
       "name": "Microsoft [qure]",
@@ -10754,8 +11442,16 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Midsummer.png"
     },
     {
+      "name": "midu [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/midu.png"
+    },
+    {
       "name": "Mielink [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Mielink.png"
+    },
+    {
+      "name": "mihoyo [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/mihoyo.png"
     },
     {
       "name": "mikrotik [dashboard]",
@@ -10784,6 +11480,10 @@
     {
       "name": "milinote [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/milinote.png"
+    },
+    {
+      "name": "Mimemi [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Mimemi.png"
     },
     {
       "name": "minecraft [dashboard]",
@@ -10910,6 +11610,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/mlb-tv.png"
     },
     {
+      "name": "MO [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/MO.png"
+    },
+    {
       "name": "MO [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/MO.png"
     },
@@ -10946,8 +11650,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/mojeek.png"
     },
     {
+      "name": "moji [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/moji.png"
+    },
+    {
       "name": "molecule [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/molecule.png"
+    },
+    {
+      "name": "momo [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/momo.png"
     },
     {
       "name": "monarch-money [dashboard]",
@@ -11078,6 +11790,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/movie-pilot.png"
     },
     {
+      "name": "MovieCalendar [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/MovieCalendar.png"
+    },
+    {
       "name": "Movist [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Movist.png"
     },
@@ -11104,6 +11820,14 @@
     {
       "name": "mubi-dark [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/mubi-dark.png"
+    },
+    {
+      "name": "Muchang [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Muchang.png"
+    },
+    {
+      "name": "muchong [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/muchong.png"
     },
     {
       "name": "Mulgore [apps]",
@@ -11194,6 +11918,14 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/My5.png"
     },
     {
+      "name": "mydigit [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/mydigit.png"
+    },
+    {
+      "name": "mygmc [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/mygmc.png"
+    },
+    {
       "name": "myheats [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/myheats.png"
     },
@@ -11246,6 +11978,10 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Naiko.png"
     },
     {
+      "name": "Naixue [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Naixue.png"
+    },
+    {
       "name": "NakoNako [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/NakoNako.png"
     },
@@ -11262,6 +11998,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/nanobot.png"
     },
     {
+      "name": "nanoPort [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/nanoPort.png"
+    },
+    {
       "name": "napcat [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/napcat.png"
     },
@@ -11272,6 +12012,10 @@
     {
       "name": "nasa [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/nasa.png"
+    },
+    {
+      "name": "nasa [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/nasa.png"
     },
     {
       "name": "nastool [dashboard]",
@@ -11434,6 +12178,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Netease.png"
     },
     {
+      "name": "Netease [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Netease.png"
+    },
+    {
       "name": "Netease_Music [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Netease_Music.png"
     },
@@ -11442,12 +12190,24 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Netease_Music_Unlock.png"
     },
     {
+      "name": "neteasemusic [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/neteasemusic.png"
+    },
+    {
+      "name": "neteasenews [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/neteasenews.png"
+    },
+    {
       "name": "NeteaseUnblock [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/NeteaseUnblock.png"
     },
     {
       "name": "netflix [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/netflix.png"
+    },
+    {
+      "name": "Netflix [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Netflix.png"
     },
     {
       "name": "Netflix [qure]",
@@ -11552,6 +12312,10 @@
     {
       "name": "newshosting-dark [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/newshosting-dark.png"
+    },
+    {
+      "name": "Nex [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Nex.png"
     },
     {
       "name": "nextbike [dashboard]",
@@ -11726,6 +12490,14 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Nfcloud.png"
     },
     {
+      "name": "nfzm [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/nfzm.png"
+    },
+    {
+      "name": "nga [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/nga.png"
+    },
+    {
       "name": "nginux [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/nginux.png"
     },
@@ -11816,6 +12588,10 @@
     {
       "name": "nintendo-switch [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/nintendo-switch.png"
+    },
+    {
+      "name": "nio [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/nio.png"
     },
     {
       "name": "niri [dashboard]",
@@ -11922,6 +12698,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/notesnook-light.png"
     },
     {
+      "name": "noteyoudao [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/noteyoudao.png"
+    },
+    {
       "name": "notifiarr [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/notifiarr.png"
     },
@@ -11962,6 +12742,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/nowshowing.png"
     },
     {
+      "name": "Np [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Np.png"
+    },
+    {
       "name": "Nplayer [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Nplayer.png"
     },
@@ -11990,6 +12774,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/nsclient.png"
     },
     {
+      "name": "NSFW [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/NSFW.png"
+    },
+    {
       "name": "nsg [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/nsg.png"
     },
@@ -12008,6 +12796,10 @@
     {
       "name": "nu-nl [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/nu-nl.png"
+    },
+    {
+      "name": "Nucleus [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Nucleus.png"
     },
     {
       "name": "nuclino [dashboard]",
@@ -12148,6 +12940,10 @@
     {
       "name": "Oceania_Map [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Oceania_Map.png"
+    },
+    {
+      "name": "Oclean [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Oclean.png"
     },
     {
       "name": "octoeverywhere [dashboard]",
@@ -12440,6 +13236,10 @@
     {
       "name": "openai [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/openai.png"
+    },
+    {
+      "name": "OpenAI [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/OpenAI.png"
     },
     {
       "name": "openai-light [dashboard]",
@@ -12762,6 +13562,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/origin.png"
     },
     {
+      "name": "Orz-3 [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Orz-3.png"
+    },
+    {
       "name": "oscarr [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/oscarr.png"
     },
@@ -12834,6 +13638,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/ovirt-light.png"
     },
     {
+      "name": "OvO [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/OvO.png"
+    },
+    {
       "name": "owasp-zap [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/owasp-zap.png"
     },
@@ -12886,6 +13694,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/p1ib.png"
     },
     {
+      "name": "Pacifique [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Pacifique.png"
+    },
+    {
       "name": "packetfence [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/packetfence.png"
     },
@@ -12912,6 +13724,10 @@
     {
       "name": "pagerduty [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/pagerduty.png"
+    },
+    {
+      "name": "pagoda [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/pagoda.png"
     },
     {
       "name": "paipai [apps]",
@@ -12968,6 +13784,10 @@
     {
       "name": "PaoLuLe [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/PaoLuLe.png"
+    },
+    {
+      "name": "Paoluz [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Paoluz.png"
     },
     {
       "name": "paper [dashboard]",
@@ -13028,6 +13848,10 @@
     {
       "name": "parallels [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/parallels.png"
+    },
+    {
+      "name": "Paramount [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Paramount.png"
     },
     {
       "name": "Paramount [qure]",
@@ -13136,6 +13960,10 @@
     {
       "name": "paypal [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/paypal.png"
+    },
+    {
+      "name": "Paypal [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Paypal.png"
     },
     {
       "name": "PayPal [qure]",
@@ -13276,6 +14104,10 @@
     {
       "name": "perplexity-wordmark-light [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/perplexity-wordmark-light.png"
+    },
+    {
+      "name": "Personal [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Personal.png"
     },
     {
       "name": "petio [dashboard]",
@@ -13428,6 +14260,10 @@
     {
       "name": "pia [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/pia.png"
+    },
+    {
+      "name": "Piao [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Piao.png"
     },
     {
       "name": "piaware [dashboard]",
@@ -13718,6 +14554,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Plus.png"
     },
     {
+      "name": "PLUS [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/PLUS.png"
+    },
+    {
       "name": "Plusemby [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Plusemby.png"
     },
@@ -13832,6 +14672,10 @@
     {
       "name": "Pornhub [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Pornhub.png"
+    },
+    {
+      "name": "Pornhub [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Pornhub.png"
     },
     {
       "name": "Pornhub [qure]",
@@ -14042,6 +14886,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/PrimeVideo.png"
     },
     {
+      "name": "PrimeVideo [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/PrimeVideo.png"
+    },
+    {
       "name": "PrimeVideo_副本 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/PrimeVideo_%E5%89%AF%E6%9C%AC.png"
     },
@@ -14202,6 +15050,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Prpr.png"
     },
     {
+      "name": "Prpr [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Prpr.png"
+    },
+    {
       "name": "Prpr_02 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Prpr_02.png"
     },
@@ -14224,6 +15076,10 @@
     {
       "name": "psitransfer [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/psitransfer.png"
+    },
+    {
+      "name": "PSN [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/PSN.png"
     },
     {
       "name": "pterodactyl [dashboard]",
@@ -14252,6 +15108,10 @@
     {
       "name": "puppy-linux [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/puppy-linux.png"
+    },
+    {
+      "name": "pupu [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/pupu.png"
     },
     {
       "name": "pure-storage [dashboard]",
@@ -15314,6 +16174,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/qbittorrent.png"
     },
     {
+      "name": "qczj [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/qczj.png"
+    },
+    {
       "name": "qd-today [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/qd-today.png"
     },
@@ -15338,8 +16202,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/qemu-light.png"
     },
     {
+      "name": "qimao [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/qimao.png"
+    },
+    {
       "name": "qinglong [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/qinglong.png"
+    },
+    {
+      "name": "qktx [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/qktx.png"
+    },
+    {
+      "name": "qkyl [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/qkyl.png"
     },
     {
       "name": "QL [apps]",
@@ -15356,6 +16232,10 @@
     {
       "name": "qlik2 [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/qlik2.png"
+    },
+    {
+      "name": "qmkg [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/qmkg.png"
     },
     {
       "name": "qnap [dashboard]",
@@ -15406,8 +16286,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/qobuz.png"
     },
     {
+      "name": "QQ [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/444934666.png"
+    },
+    {
       "name": "qq [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/qq.png"
+    },
+    {
+      "name": "QQ [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/QQ.png"
     },
     {
       "name": "QQ [qure]",
@@ -15422,12 +16310,44 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/QQMusic.png"
     },
     {
+      "name": "qqmusic [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/qqmusic.png"
+    },
+    {
       "name": "QQMusic_02 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/QQMusic_02.png"
     },
     {
+      "name": "QQRead [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/QQRead.png"
+    },
+    {
       "name": "QQvideo [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/QQvideo.png"
+    },
+    {
+      "name": "qqvip [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/qqvip.png"
+    },
+    {
+      "name": "QQ浏览器 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/370139302.png"
+    },
+    {
+      "name": "QQ邮箱 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/473225145.png"
+    },
+    {
+      "name": "QQ阅读 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/487608658.png"
+    },
+    {
+      "name": "QQ音乐 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/414603431.png"
+    },
+    {
+      "name": "qtt [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/qtt.png"
     },
     {
       "name": "quanqiu [apps]",
@@ -15490,6 +16410,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/QuantumultX.png"
     },
     {
+      "name": "quantumultx [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/quantumultx.png"
+    },
+    {
       "name": "QuantumultX_01 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/QuantumultX_01.png"
     },
@@ -15546,6 +16470,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/quizlet.png"
     },
     {
+      "name": "qunar [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/qunar.png"
+    },
+    {
       "name": "Qunhui [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Qunhui.png"
     },
@@ -15556,6 +16484,10 @@
     {
       "name": "qutebrowser [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/qutebrowser.png"
+    },
+    {
+      "name": "quwalk [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/quwalk.png"
     },
     {
       "name": "qwen [dashboard]",
@@ -15862,6 +16794,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/renovate.png"
     },
     {
+      "name": "Renzhe [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Renzhe.png"
+    },
+    {
       "name": "Renzhe [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Renzhe.png"
     },
@@ -15982,6 +16918,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/RiotGames_02.png"
     },
     {
+      "name": "RIP [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/RIP.png"
+    },
+    {
       "name": "ripe [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/ripe.png"
     },
@@ -16058,6 +16998,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/rook.png"
     },
     {
+      "name": "Rookie [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Rookie.png"
+    },
+    {
       "name": "roon [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/roon.png"
     },
@@ -16086,6 +17030,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/roundcube.png"
     },
     {
+      "name": "Roundrobin [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Roundrobin.png"
+    },
+    {
       "name": "router [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/router.png"
     },
@@ -16100,6 +17048,10 @@
     {
       "name": "rport [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/rport.png"
+    },
+    {
+      "name": "rrtv [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/rrtv.png"
     },
     {
       "name": "rsa [dashboard]",
@@ -16132,6 +17084,10 @@
     {
       "name": "rti-control [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/rti-control.png"
+    },
+    {
+      "name": "RU [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/RU.png"
     },
     {
       "name": "RU [qure]",
@@ -16362,6 +17318,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/satisfactory.png"
     },
     {
+      "name": "SaySS [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/SaySS.png"
+    },
+    {
       "name": "scala [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/scala.png"
     },
@@ -16432,6 +17392,14 @@
     {
       "name": "scrypted [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/scrypted.png"
+    },
+    {
+      "name": "SCTC [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/SCTC.png"
+    },
+    {
+      "name": "sdc [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/sdc.png"
     },
     {
       "name": "seafile [dashboard]",
@@ -16610,8 +17578,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/seznam.png"
     },
     {
+      "name": "sfexpress [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/sfexpress.png"
+    },
+    {
       "name": "sftpgo [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/sftpgo.png"
+    },
+    {
+      "name": "SG [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/SG.png"
     },
     {
       "name": "SG [qure]",
@@ -16634,8 +17610,16 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/shadowrocket.png"
     },
     {
+      "name": "shadowrocket [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/shadowrocket.png"
+    },
+    {
       "name": "shadowrocket-02 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/shadowrocket-02.png"
+    },
+    {
+      "name": "Shandian [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Shandian.png"
     },
     {
       "name": "sharewood [dashboard]",
@@ -16866,6 +17850,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/simpli.png"
     },
     {
+      "name": "sinanews [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/sinanews.png"
+    },
+    {
       "name": "Singapore [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Singapore.png"
     },
@@ -16886,8 +17874,16 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Siri.png"
     },
     {
+      "name": "Situ [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Situ.png"
+    },
+    {
       "name": "siyuan [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/siyuan.png"
+    },
+    {
+      "name": "sjdj [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/sjdj.png"
     },
     {
       "name": "sketchup-make [dashboard]",
@@ -16896,6 +17892,10 @@
     {
       "name": "Skicat [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Skicat.png"
+    },
+    {
+      "name": "Skicat [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Skicat.png"
     },
     {
       "name": "sknerus [dashboard]",
@@ -16990,6 +17990,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/smzdm.png"
     },
     {
+      "name": "smzdm [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/smzdm.png"
+    },
+    {
       "name": "snapcast [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/snapcast.png"
     },
@@ -17060,6 +18064,10 @@
     {
       "name": "socialhome [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/socialhome.png"
+    },
+    {
+      "name": "Socloud [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Socloud.png"
     },
     {
       "name": "sofka [dashboard]",
@@ -17144,6 +18152,10 @@
     {
       "name": "sonos-light [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/sonos-light.png"
+    },
+    {
+      "name": "SONY [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/SONY.png"
     },
     {
       "name": "sophos [dashboard]",
@@ -17234,6 +18246,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Speedtest.png"
     },
     {
+      "name": "Speedtest [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Speedtest.png"
+    },
+    {
       "name": "Speedtest [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Speedtest.png"
     },
@@ -17304,6 +18320,10 @@
     {
       "name": "spotify [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/spotify.png"
+    },
+    {
+      "name": "Spotify [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Spotify.png"
     },
     {
       "name": "Spotify [qure]",
@@ -17386,12 +18406,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/squirrel-servers-manager.png"
     },
     {
+      "name": "SS [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/SS.png"
+    },
+    {
       "name": "sshwifty [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/sshwifty.png"
     },
     {
       "name": "SSID [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/SSID.png"
+    },
+    {
+      "name": "SSID [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/SSID.png"
     },
     {
       "name": "SSID [qure]",
@@ -17406,6 +18434,10 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/SSL.png"
     },
     {
+      "name": "SSlinks [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/SSlinks.png"
+    },
+    {
       "name": "ssLinks [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/ssLinks.png"
     },
@@ -17414,8 +18446,16 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Ssp.png"
     },
     {
+      "name": "Ssp [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Ssp.png"
+    },
+    {
       "name": "SSport+ [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/SSport%2B.png"
+    },
+    {
+      "name": "SSR [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/SSR.png"
     },
     {
       "name": "sst-dev [dashboard]",
@@ -17522,12 +18562,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/stash.png"
     },
     {
+      "name": "stash [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/stash.png"
+    },
+    {
       "name": "Stash_01 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Stash_01.png"
     },
     {
       "name": "Stash_02 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Stash_02.png"
+    },
+    {
+      "name": "Static [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Static.png"
     },
     {
       "name": "Static [qure]",
@@ -17570,12 +18618,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/stb-proxy.png"
     },
     {
+      "name": "STC [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/STC.png"
+    },
+    {
       "name": "steam [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/steam.png"
     },
     {
       "name": "steam [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/steam.png"
+    },
+    {
+      "name": "Steam [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Steam.png"
     },
     {
       "name": "Steam [qure]",
@@ -17646,6 +18702,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/streamawesome.png"
     },
     {
+      "name": "Streaming [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Streaming.png"
+    },
+    {
       "name": "Streaming [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Streaming.png"
     },
@@ -17654,8 +18714,16 @@
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Streaming%21CN.png"
     },
     {
+      "name": "StreamingCN [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/StreamingCN.png"
+    },
+    {
       "name": "StreamingCN [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/StreamingCN.png"
+    },
+    {
+      "name": "StreamingSE [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/StreamingSE.png"
     },
     {
       "name": "StreamingSE [qure]",
@@ -17692,6 +18760,10 @@
     {
       "name": "StudyFun1 [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/StudyFun1.png"
+    },
+    {
+      "name": "studygolang [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/studygolang.png"
     },
     {
       "name": "stump [dashboard]",
@@ -17734,6 +18806,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/substreamer.png"
     },
     {
+      "name": "Suda [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Suda.png"
+    },
+    {
       "name": "suggest-arr [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/suggest-arr.png"
     },
@@ -17746,8 +18822,16 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/sultanahmedmosque.png"
     },
     {
+      "name": "Sun [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Sun.png"
+    },
+    {
       "name": "sun-panel [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/sun-panel.png"
+    },
+    {
+      "name": "suning [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/suning.png"
     },
     {
       "name": "sunsama [dashboard]",
@@ -17792,6 +18876,10 @@
     {
       "name": "Surge [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Surge.png"
+    },
+    {
+      "name": "surge [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/surge.png"
     },
     {
       "name": "Surge_01 [apps]",
@@ -17840,6 +18928,10 @@
     {
       "name": "swarmpit [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/swarmpit.png"
+    },
+    {
+      "name": "SWCloud [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/SWCloud.png"
     },
     {
       "name": "swift [dashboard]",
@@ -18146,6 +19238,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/tdarr.png"
     },
     {
+      "name": "Team [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Team.png"
+    },
+    {
       "name": "team-viewer [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/team-viewer.png"
     },
@@ -18206,12 +19302,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/tekstobot-light.png"
     },
     {
+      "name": "telecominfinty [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/telecominfinty.png"
+    },
+    {
       "name": "telegraf [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/telegraf.png"
     },
     {
       "name": "telegram [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/telegram.png"
+    },
+    {
+      "name": "Telegram [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Telegram.png"
     },
     {
       "name": "Telegram [qure]",
@@ -18358,6 +19462,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/testflight.png"
     },
     {
+      "name": "testflight [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/testflight.png"
+    },
+    {
       "name": "TestFlight [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/TestFlight.png"
     },
@@ -18404,6 +19512,14 @@
     {
       "name": "tether-wordmark-light [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/tether-wordmark-light.png"
+    },
+    {
+      "name": "tgpic [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/tgpic.png"
+    },
+    {
+      "name": "TH [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/TH.png"
     },
     {
       "name": "TH [qure]",
@@ -18482,6 +19598,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/TheWhiteHouse.png"
     },
     {
+      "name": "thg [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/thg.png"
+    },
+    {
       "name": "thin-linc [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/thin-linc.png"
     },
@@ -18516,6 +19636,10 @@
     {
       "name": "Thunder [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Thunder.png"
+    },
+    {
+      "name": "Thunder [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Thunder.png"
     },
     {
       "name": "thunderbird [dashboard]",
@@ -18574,8 +19698,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/tiddlywiki-light.png"
     },
     {
+      "name": "tieba [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/tieba.png"
+    },
+    {
       "name": "tiktok [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/tiktok.png"
+    },
+    {
+      "name": "TikTok [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/TikTok.png"
     },
     {
       "name": "TikTok [qure]",
@@ -18632,6 +19764,10 @@
     {
       "name": "TikTok_2 [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/TikTok_2.png"
+    },
+    {
+      "name": "time [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/time.png"
     },
     {
       "name": "timemachines [dashboard]",
@@ -18750,6 +19886,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/tolgee.png"
     },
     {
+      "name": "tongc [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/tongc.png"
+    },
+    {
       "name": "toolhive [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/toolhive.png"
     },
@@ -18806,6 +19946,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/toshiba.png"
     },
     {
+      "name": "Touhou [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Touhou.png"
+    },
+    {
       "name": "touitomamout [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/touitomamout.png"
     },
@@ -18816,6 +19960,10 @@
     {
       "name": "tpdb [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/tpdb.png"
+    },
+    {
+      "name": "TR [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/TR.png"
     },
     {
       "name": "TR [qure]",
@@ -18872,6 +20020,10 @@
     {
       "name": "trala [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/trala.png"
+    },
+    {
+      "name": "translate [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/translate.png"
     },
     {
       "name": "transmission [dashboard]",
@@ -18934,6 +20086,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/troddit.png"
     },
     {
+      "name": "Trojan [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Trojan.png"
+    },
+    {
       "name": "trudesk [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/trudesk.png"
     },
@@ -18964,6 +20120,10 @@
     {
       "name": "tsd-proxy [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/tsd-proxy.png"
+    },
+    {
+      "name": "ttwkxcx [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/ttwkxcx.png"
     },
     {
       "name": "tube-archivist [dashboard]",
@@ -19000,6 +20160,10 @@
     {
       "name": "Tuhu [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Tuhu.png"
+    },
+    {
+      "name": "tuhu [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/tuhu.png"
     },
     {
       "name": "tuliprox [dashboard]",
@@ -19074,6 +20238,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/tvp-vod.png"
     },
     {
+      "name": "TW [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/TW.png"
+    },
+    {
       "name": "TW [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/TW.png"
     },
@@ -19114,6 +20282,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/twitter.png"
     },
     {
+      "name": "Twitter [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Twitter.png"
+    },
+    {
       "name": "Twitter [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Twitter.png"
     },
@@ -19136,6 +20308,10 @@
     {
       "name": "txlog [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/txlog.png"
+    },
+    {
+      "name": "txnews [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/txnews.png"
     },
     {
       "name": "tyepcho [dashboard]",
@@ -19202,6 +20378,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/uc-browser.png"
     },
     {
+      "name": "UC浏览器 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/586871187.png"
+    },
+    {
       "name": "udemy [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/udemy.png"
     },
@@ -19224,6 +20404,10 @@
     {
       "name": "ugreen-nas [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/ugreen-nas.png"
+    },
+    {
+      "name": "UK [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/UK.png"
     },
     {
       "name": "UK [qure]",
@@ -19262,6 +20446,18 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/umbrel.png"
     },
     {
+      "name": "umer [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/umer.png"
+    },
+    {
+      "name": "umetrip [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/umetrip.png"
+    },
+    {
+      "name": "UN [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/UN.png"
+    },
+    {
       "name": "UN [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/UN.png"
     },
@@ -19276,6 +20472,10 @@
     {
       "name": "undb [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/undb.png"
+    },
+    {
+      "name": "Unicorn [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Unicorn.png"
     },
     {
       "name": "unifi [dashboard]",
@@ -19304,6 +20504,10 @@
     {
       "name": "unimus [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/unimus.png"
+    },
+    {
+      "name": "unipay [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/unipay.png"
     },
     {
       "name": "United_Kingdom [qure]",
@@ -19418,6 +20622,14 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/UrlTest.png"
     },
     {
+      "name": "Urltest [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Urltest.png"
+    },
+    {
+      "name": "US [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/US.png"
+    },
+    {
       "name": "US [qure]",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/US.png"
     },
@@ -19430,8 +20642,24 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/usermin.png"
     },
     {
+      "name": "U校园AI版 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1672267376.png"
+    },
+    {
+      "name": "v2ex [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/v2ex.png"
+    },
+    {
+      "name": "V2ray [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/V2ray.png"
+    },
+    {
       "name": "v2tun [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/v2tun.png"
+    },
+    {
+      "name": "V2tun [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/V2tun.png"
     },
     {
       "name": "V6 [apps]",
@@ -19560,6 +20788,10 @@
     {
       "name": "videobuster [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/videobuster.png"
+    },
+    {
+      "name": "videoqq [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/videoqq.png"
     },
     {
       "name": "vidzy [dashboard]",
@@ -19718,6 +20950,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/vmware-workstation.png"
     },
     {
+      "name": "VN [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/VN.png"
+    },
+    {
       "name": "vn-stat [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/vn-stat.png"
     },
@@ -19776,6 +21012,10 @@
     {
       "name": "vouchervault [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/vouchervault.png"
+    },
+    {
+      "name": "Vpn [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Vpn.png"
     },
     {
       "name": "vscode [dashboard]",
@@ -19846,8 +21086,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/wallhaven.png"
     },
     {
+      "name": "Wallless [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Wallless.png"
+    },
+    {
       "name": "wallos [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/wallos.png"
+    },
+    {
+      "name": "wanda [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/wanda.png"
     },
     {
       "name": "wanderer [dashboard]",
@@ -19962,6 +21210,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/wdqs.png"
     },
     {
+      "name": "weather [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/weather.png"
+    },
+    {
       "name": "weave-gitops [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/weave-gitops.png"
     },
@@ -20060,6 +21312,10 @@
     {
       "name": "weibo [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/weibo.png"
+    },
+    {
+      "name": "weibo [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/weibo.png"
     },
     {
       "name": "Weibo [qure]",
@@ -20274,6 +21530,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/wero-dark.png"
     },
     {
+      "name": "WestData [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/WestData.png"
+    },
+    {
       "name": "western-digital [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/western-digital.png"
     },
@@ -20372,6 +21632,10 @@
     {
       "name": "whoogle [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/whoogle.png"
+    },
+    {
+      "name": "WIFI [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/WIFI.png"
     },
     {
       "name": "WiFi [qure]",
@@ -20530,6 +21794,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/wmbwc.png"
     },
     {
+      "name": "wmmeituan [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/wmmeituan.png"
+    },
+    {
       "name": "wolfi [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/wolfi.png"
     },
@@ -20566,6 +21834,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/workadventure.png"
     },
     {
+      "name": "WorkBuddy [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6761374913.png"
+    },
+    {
       "name": "worklenz [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/worklenz.png"
     },
@@ -20586,6 +21858,14 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/wownero.png"
     },
     {
+      "name": "wps [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/wps.png"
+    },
+    {
+      "name": "WPS Office [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/599852710.png"
+    },
+    {
       "name": "writefreely [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/writefreely.png"
     },
@@ -20594,8 +21874,20 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/writefreely-light.png"
     },
     {
+      "name": "wsxq [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/wsxq.png"
+    },
+    {
       "name": "wsz [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/wsz.png"
+    },
+    {
+      "name": "wxdaka [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/wxdaka.png"
+    },
+    {
+      "name": "wykl [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/wykl.png"
     },
     {
       "name": "X [apps]",
@@ -20612,6 +21904,10 @@
     {
       "name": "x-light [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/x-light.png"
+    },
+    {
+      "name": "Xair [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Xair.png"
     },
     {
       "name": "xbackbone [dashboard]",
@@ -20652,6 +21948,10 @@
     {
       "name": "xcp-ng [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/xcp-ng.png"
+    },
+    {
+      "name": "XD [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/XD.png"
     },
     {
       "name": "xen-orchestra [dashboard]",
@@ -20698,6 +21998,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/xiaomiCar.png"
     },
     {
+      "name": "xiaomiyp [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/xiaomiyp.png"
+    },
+    {
       "name": "Xiaoyi [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Xiaoyi.png"
     },
@@ -20708,6 +22012,14 @@
     {
       "name": "ximalaya [apps]",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/ximalaya.png"
+    },
+    {
+      "name": "ximalaya [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/ximalaya.png"
+    },
+    {
+      "name": "Xingmeng [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Xingmeng.png"
     },
     {
       "name": "Xltx [apps]",
@@ -20762,6 +22074,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/xteve.png"
     },
     {
+      "name": "XTunnel [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/XTunnel.png"
+    },
+    {
       "name": "xubuntu-linux [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/xubuntu-linux.png"
     },
@@ -20772,6 +22088,10 @@
     {
       "name": "xwiki [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/xwiki.png"
+    },
+    {
+      "name": "xxys [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/xxys.png"
     },
     {
       "name": "xxyx [apps]",
@@ -20838,6 +22158,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/yandex.png"
     },
     {
+      "name": "yanxuan [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/yanxuan.png"
+    },
+    {
       "name": "yarn-social [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/yarn-social.png"
     },
@@ -20890,8 +22214,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/yeti-cti.png"
     },
     {
+      "name": "yiLi [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/yiLi.png"
+    },
+    {
       "name": "ymarks [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/ymarks.png"
+    },
+    {
+      "name": "ymatou [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/ymatou.png"
     },
     {
       "name": "ynab [dashboard]",
@@ -20914,8 +22246,16 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/youtarr.png"
     },
     {
+      "name": "youth [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/youth.png"
+    },
+    {
       "name": "youtube [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/youtube.png"
+    },
+    {
+      "name": "YouTube [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/YouTube.png"
     },
     {
       "name": "YouTube [qure]",
@@ -20982,6 +22322,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/yt-dlp.png"
     },
     {
+      "name": "Ytoo [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Ytoo.png"
+    },
+    {
       "name": "yts [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/yts.png"
     },
@@ -20998,6 +22342,18 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/yunohost.png"
     },
     {
+      "name": "Yunyi [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Yunyi.png"
+    },
+    {
+      "name": "Ywhl [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Ywhl.png"
+    },
+    {
+      "name": "yzkb [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/yzkb.png"
+    },
+    {
       "name": "z-ai [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/z-ai.png"
     },
@@ -21012,6 +22368,10 @@
     {
       "name": "zabka [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/zabka.png"
+    },
+    {
+      "name": "zaker [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/zaker.png"
     },
     {
       "name": "Zalo [apps]",
@@ -21102,6 +22462,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/ZhiPianRen2.png"
     },
     {
+      "name": "Zhs [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/Zhs.png"
+    },
+    {
       "name": "zigbee [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/zigbee.png"
     },
@@ -21124,6 +22488,10 @@
     {
       "name": "zimbra [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/zimbra.png"
+    },
+    {
+      "name": "zimuzu [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/zimuzu.png"
     },
     {
       "name": "zipcaptions [dashboard]",
@@ -21150,6 +22518,10 @@
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/zitadel-light.png"
     },
     {
+      "name": "ZMTeacher [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/ZMTeacher.png"
+    },
+    {
       "name": "znc [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/znc.png"
     },
@@ -21168,6 +22540,10 @@
     {
       "name": "zoneminder [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/zoneminder.png"
+    },
+    {
+      "name": "zongheng [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/zongheng.png"
     },
     {
       "name": "zoom [dashboard]",
@@ -21202,12 +22578,28 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/3ca7487b4e4b86d9af76e50df72c62eacfbb659e/icons/apps/Zox.png"
     },
     {
+      "name": "zscdb [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/zscdb.png"
+    },
+    {
+      "name": "zsfc [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/zsfc.png"
+    },
+    {
       "name": "zulip [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/zulip.png"
     },
     {
       "name": "zwavejs2mqtt [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/zwavejs2mqtt.png"
+    },
+    {
+      "name": "zxhc [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/zxhc.png"
+    },
+    {
+      "name": "zymk [orz]",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/0e2bab71d8dbe512db9b5e7a9000a5661dd0e327/Color/zymk.png"
     },
     {
       "name": "zyxel-communications [dashboard]",
@@ -21236,6 +22628,538 @@
     {
       "name": "zyxel-networks-wordmark-light [dashboard]",
       "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/ce550a844bad92ea19b5926cb887285c46bac01a/png/zyxel-networks-wordmark-light.png"
+    },
+    {
+      "name": "七猫小说 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1387717110.png"
+    },
+    {
+      "name": "东方财富 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/423525686.png"
+    },
+    {
+      "name": "个人所得税 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1436002627.png"
+    },
+    {
+      "name": "中国农业银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/515651240.png"
+    },
+    {
+      "name": "中国工商银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/423514795.png"
+    },
+    {
+      "name": "中国建设银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/391965015.png"
+    },
+    {
+      "name": "中国电信 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/513836029.png"
+    },
+    {
+      "name": "中国移动（手机营业厅） [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/583700738.png"
+    },
+    {
+      "name": "中国联通 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/416457422.png"
+    },
+    {
+      "name": "中国银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/399608199.png"
+    },
+    {
+      "name": "云闪付 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/600273928.png"
+    },
+    {
+      "name": "交管12123 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1039727169.png"
+    },
+    {
+      "name": "京东 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/414245413.png"
+    },
+    {
+      "name": "京东金融 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/895682747.png"
+    },
+    {
+      "name": "什么值得买 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/518213356.png"
+    },
+    {
+      "name": "今日头条 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/529092160.png"
+    },
+    {
+      "name": "今日水印相机 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1319071502.png"
+    },
+    {
+      "name": "企业微信 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1087897068.png"
+    },
+    {
+      "name": "优酷视频 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/336141475.png"
+    },
+    {
+      "name": "全民K歌 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/910513149.png"
+    },
+    {
+      "name": "到梦空间 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1111507151.png"
+    },
+    {
+      "name": "前程无忧51Job [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/415443644.png"
+    },
+    {
+      "name": "剪映 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1458072671.png"
+    },
+    {
+      "name": "千问 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6466733523.png"
+    },
+    {
+      "name": "华为商城 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1455432631.png"
+    },
+    {
+      "name": "即梦AI [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6503676563.png"
+    },
+    {
+      "name": "去哪儿旅行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/395096736.png"
+    },
+    {
+      "name": "叮咚买菜 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/768082524.png"
+    },
+    {
+      "name": "同程旅行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/475966832.png"
+    },
+    {
+      "name": "同花顺 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/303191318.png"
+    },
+    {
+      "name": "咪咕视频 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/787130974.png"
+    },
+    {
+      "name": "哈啰 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1165227346.png"
+    },
+    {
+      "name": "哔哩哔哩 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/736536022.png"
+    },
+    {
+      "name": "唯品会 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/417200582.png"
+    },
+    {
+      "name": "喜马拉雅 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/876336838.png"
+    },
+    {
+      "name": "国家医保服务平台 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1490383593.png"
+    },
+    {
+      "name": "国家反诈中心 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1552823102.png"
+    },
+    {
+      "name": "国家网络身份认证 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1588080869.png"
+    },
+    {
+      "name": "多邻国Duolingo英语日语法语 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/570060128.png"
+    },
+    {
+      "name": "多闪 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1435602536.png"
+    },
+    {
+      "name": "大众点评 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/351091731.png"
+    },
+    {
+      "name": "大麦 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/513829338.png"
+    },
+    {
+      "name": "天猫 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/518966501.png"
+    },
+    {
+      "name": "央视频 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1479814602.png"
+    },
+    {
+      "name": "夸克 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1160172628.png"
+    },
+    {
+      "name": "夸克网盘 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6755949705.png"
+    },
+    {
+      "name": "学习强国 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1426355645.png"
+    },
+    {
+      "name": "学习通 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/977946724.png"
+    },
+    {
+      "name": "学信网 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1488854568.png"
+    },
+    {
+      "name": "小米商城 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1024958046.png"
+    },
+    {
+      "name": "小米运动健康 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1493500777.png"
+    },
+    {
+      "name": "小红书 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/741292507.png"
+    },
+    {
+      "name": "山姆会员商店 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/818237113.png"
+    },
+    {
+      "name": "平安口袋银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1085016815.png"
+    },
+    {
+      "name": "得物 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1012871328.png"
+    },
+    {
+      "name": "微信 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/414478124.png"
+    },
+    {
+      "name": "微博 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/350962117.png"
+    },
+    {
+      "name": "微店 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/860384719.png"
+    },
+    {
+      "name": "心遇 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1516567721.png"
+    },
+    {
+      "name": "志愿汇 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/959468399.png"
+    },
+    {
+      "name": "快影 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1195860596.png"
+    },
+    {
+      "name": "快手 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/440948110.png"
+    },
+    {
+      "name": "快手极速版 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1472502819.png"
+    },
+    {
+      "name": "懂球帝 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6740233629.png"
+    },
+    {
+      "name": "懂车帝 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1232131998.png"
+    },
+    {
+      "name": "扫描全能王 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/388627783.png"
+    },
+    {
+      "name": "抖省省 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6756863766.png"
+    },
+    {
+      "name": "抖音 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1142110895.png"
+    },
+    {
+      "name": "抖音商城 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1485191072.png"
+    },
+    {
+      "name": "招商银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/392899425.png"
+    },
+    {
+      "name": "拼多多 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1044283059.png"
+    },
+    {
+      "name": "掌阅 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/463150061.png"
+    },
+    {
+      "name": "携程旅行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/379395415.png"
+    },
+    {
+      "name": "支付宝 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/333206289.png"
+    },
+    {
+      "name": "智行火车票-12306官网出票 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/651323845.png"
+    },
+    {
+      "name": "汽水音乐 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1605585211.png"
+    },
+    {
+      "name": "河马剧场 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6451242037.png"
+    },
+    {
+      "name": "淘宝 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/387682726.png"
+    },
+    {
+      "name": "滴滴出行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/554499054.png"
+    },
+    {
+      "name": "澎湃新闻 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/878962716.png"
+    },
+    {
+      "name": "爱奇艺 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/393765873.png"
+    },
+    {
+      "name": "班级小管家 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1524125516.png"
+    },
+    {
+      "name": "瓜子二手车 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/990531994.png"
+    },
+    {
+      "name": "电子税务局 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6468941332.png"
+    },
+    {
+      "name": "界面新闻 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/930342070.png"
+    },
+    {
+      "name": "番茄小说 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1468454200.png"
+    },
+    {
+      "name": "百度 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/382201985.png"
+    },
+    {
+      "name": "百度地图 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/452186370.png"
+    },
+    {
+      "name": "百度网盘 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/547166701.png"
+    },
+    {
+      "name": "百度贴吧 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/477927812.png"
+    },
+    {
+      "name": "盒马 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1063183999.png"
+    },
+    {
+      "name": "直播吧 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1228058501.png"
+    },
+    {
+      "name": "知乎 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/432274380.png"
+    },
+    {
+      "name": "知到. [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1255358463.png"
+    },
+    {
+      "name": "米家 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/957323480.png"
+    },
+    {
+      "name": "红果漫剧 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6745890963.png"
+    },
+    {
+      "name": "红果短剧 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6451407032.png"
+    },
+    {
+      "name": "网易云音乐 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/590338362.png"
+    },
+    {
+      "name": "网易新闻 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/425349261.png"
+    },
+    {
+      "name": "美团 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/423084029.png"
+    },
+    {
+      "name": "美团外卖 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/737310995.png"
+    },
+    {
+      "name": "美图秀秀 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/416048305.png"
+    },
+    {
+      "name": "腾讯会议 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1484048379.png"
+    },
+    {
+      "name": "腾讯新闻 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/399363156.png"
+    },
+    {
+      "name": "腾讯视频 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/458318329.png"
+    },
+    {
+      "name": "航旅纵横 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/480161784.png"
+    },
+    {
+      "name": "芒果TV [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/629774477.png"
+    },
+    {
+      "name": "苏宁易购 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/424598114.png"
+    },
+    {
+      "name": "菜鸟 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/951610982.png"
+    },
+    {
+      "name": "虎扑 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/906632439.png"
+    },
+    {
+      "name": "蚂蚁财富 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1025628019.png"
+    },
+    {
+      "name": "蚂蚁阿福 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6743828427.png"
+    },
+    {
+      "name": "西瓜视频 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1134496215.png"
+    },
+    {
+      "name": "豆包 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6459478672.png"
+    },
+    {
+      "name": "豆瓣 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/907002334.png"
+    },
+    {
+      "name": "财新 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/356023612.png"
+    },
+    {
+      "name": "起点读书 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/534174796.png"
+    },
+    {
+      "name": "转转 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1002355194.png"
+    },
+    {
+      "name": "迅雷 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1503466530.png"
+    },
+    {
+      "name": "邮储银行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/493489515.png"
+    },
+    {
+      "name": "酷我音乐 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/588673713.png"
+    },
+    {
+      "name": "酷狗音乐 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/472208016.png"
+    },
+    {
+      "name": "醒图 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1500526240.png"
+    },
+    {
+      "name": "钉钉 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/930368978.png"
+    },
+    {
+      "name": "铁路12306 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/564818797.png"
+    },
+    {
+      "name": "闲鱼 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/510909506.png"
+    },
+    {
+      "name": "阿里巴巴(1688) [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/507097717.png"
+    },
+    {
+      "name": "雪球 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/492180369.png"
+    },
+    {
+      "name": "顺丰速运 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/899529698.png"
+    },
+    {
+      "name": "飓风相机 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/6749835845.png"
+    },
+    {
+      "name": "飞书 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/1401729613.png"
+    },
+    {
+      "name": "飞猪旅行 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/453691481.png"
+    },
+    {
+      "name": "高德地图 [china]",
+      "url": "https://raw.githubusercontent.com/shengrui123/loon-rules/main/stash-icons/china/461703208.png"
     }
   ]
 }
