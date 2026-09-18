@@ -1,0 +1,25 @@
+#!name = Threads 分流
+#!desc = 将 Threads 网页、App 接口、登录及媒体资源交给 PROXY 策略。
+#!author = Codex
+#!date = 2026-08-12
+
+[Rule]
+# Threads 官方站点（threads.net 为旧域名，仍保留以兼容旧链接及 API）
+DOMAIN-SUFFIX,threads.com,PROXY
+DOMAIN-SUFFIX,threads.net,PROXY
+
+# Threads App 复用的 Instagram 接口与账号登录
+DOMAIN,i.instagram.com,PROXY
+DOMAIN,b.i.instagram.com,PROXY
+DOMAIN,graph.instagram.com,PROXY
+DOMAIN,www.instagram.com,PROXY
+
+# 图片、视频及附件 CDN
+DOMAIN-SUFFIX,cdninstagram.com,PROXY
+DOMAIN-SUFFIX,fbcdn.net,PROXY
+DOMAIN-SUFFIX,fbsbx.com,PROXY
+
+# Meta 账号授权及通用 Graph API
+DOMAIN,graph.facebook.com,PROXY
+DOMAIN,www.facebook.com,PROXY
+DOMAIN,m.facebook.com,PROXY
